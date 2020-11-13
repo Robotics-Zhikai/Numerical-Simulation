@@ -10,3 +10,5 @@
 对部分函数进行了重构 
 main是进行排队系统时间流仿真的
 Simulate是为了做机电系统智能控制作业的代码 涉及到BP神经网络工具箱的使用，对函数进行拟合；满足某一概率分布的数据生成等问题
+
+![image](https://github.com/Robotics-Zhikai/Numerical-Simulation/blob/master/Actual%20simulation%20based%20on%20Probability%20distribution/images/1.emf)
